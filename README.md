@@ -1,0 +1,2 @@
+# FastTextClassification-Pytorch
+使用FastText模型文本分类
